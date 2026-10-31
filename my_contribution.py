@@ -1,3 +1,3 @@
 print("Welcome to AI Project Gallery")
-print("This is my first GitHub contribution")
+print("Merge conflict resolved successfully")
 print("Feature Branch: GIT-EXAM")
